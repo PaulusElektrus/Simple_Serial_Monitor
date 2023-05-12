@@ -11,6 +11,8 @@ I built a serial monitor with writing & reading functionality. It can be used fo
     - If you want to write to device you have to press Ctrl + C 
     - If you want to exit: Press Ctrl + C two times
 
+    ![Screenshot](Screenshot_CLI.png)
+
 ### 2) Application Programming Interface (API)
 
     ```python
