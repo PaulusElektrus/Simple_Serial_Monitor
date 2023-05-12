@@ -31,4 +31,6 @@ I built a serial monitor with writing & reading functionality. It can be used fo
     api.close()
     ```
 
+------------
+
 Thanks to [pySerial](https://github.com/pyserial)
